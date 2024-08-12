@@ -1,3 +1,4 @@
+
 #https://www.python.org/
 
 #Comentario en una linea
@@ -14,11 +15,10 @@ my_variable = "Nuevo valor de mi variable"
 MY_CONSTANTE = "Mi constante"  #Marcar siempre que la variable es constante
 
 #Tipos de datos primitivos
-my_int = 1 #enteros
-my_float = 1.5 #decimales 
-my_bool = True #booleano
+my_int = 1
+my_float = 1.5
+my_bool = True
 my_bool = False
-my_str = "Mi cadena de texto" #Texto
+my_str = "Mi cadena de texto"
 
-#print("¡Hola Python!")
-
+print(my_float)
