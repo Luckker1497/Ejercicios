@@ -21,4 +21,11 @@ my_bool = True
 my_bool = False
 my_str = "Mi cadena de texto"
 
-print(my_float)
+#Imprimir un dato
+print("Hola, Python")
+
+#Imprime el tipo de dato que pertenece el elemento de la variable
+print(type(my_int))
+print(type(my_float))
+print(type(my_bool))
+print(type(my_str))
