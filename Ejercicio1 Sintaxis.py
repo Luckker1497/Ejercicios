@@ -24,7 +24,7 @@ my_str = "Mi cadena de texto"
 #Imprimir un dato
 print("Hola, Python")
 
-#Imprime el tipo de dato que pertenece el elemento de la variable
+#Imprime el tipo de dato que pertenece el elemento de la variable Prueba 123
 print(type(my_int))
 print(type(my_float))
 print(type(my_bool))
