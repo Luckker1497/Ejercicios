@@ -34,8 +34,13 @@ print ("¿45 <= 44? ", menor)
 #Operadores logicos
 y = 10 - 4 == 6
 o = 47 + 32 == 57
-n =  42 + 2 == 29
+n = not 42 + 2 == 29
 
 print("AND ¿10 - 4 es = 6? AND 42 + 2 = 29", y and o ) #Se debe cumplir ambas operaciones
 print("OR ¿10 - 4 es = 6? OR 42 + 2 = 29", y or n ) #se debe cumplir al menos una
-print("NOT  42 + 2 = 29",  n )
+print("NOT  42 + 2 = 29",  n ) #Al negarlo se convierte en verdadero
+
+#Operadores de asignacion
+my_number = 11
+
+
